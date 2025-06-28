@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:lapis_lazuli",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:lapis_ore",
+        "count": 1
+    }
+}

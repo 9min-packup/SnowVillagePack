@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:wooden_sword",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:stone_sword"
+    }
+}

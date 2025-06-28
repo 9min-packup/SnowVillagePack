@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:redstone",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:redstone_ore",
+        "count": 1
+    }
+}

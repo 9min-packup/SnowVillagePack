@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:daylight_detector",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:sculk_sensor",
+        "count": 1
+    }
+}

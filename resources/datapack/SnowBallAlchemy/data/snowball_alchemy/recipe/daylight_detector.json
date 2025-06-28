@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["XXX", "ooo", "YYY"],
+    "key": {
+        "X": "minecraft:glass",
+        "Y": "#minecraft:wooden_slabs",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:daylight_detector",
+        "count": 1
+    }
+}

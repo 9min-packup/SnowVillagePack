@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:snow_block",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:ice"
+    }
+}

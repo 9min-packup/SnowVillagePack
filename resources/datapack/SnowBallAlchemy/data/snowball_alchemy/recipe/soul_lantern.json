@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:lantern",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:soul_lantern",
+        "count": 1
+    }
+}

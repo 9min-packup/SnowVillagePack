@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:powder_snow_bucket",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:lava_bucket"
+    }
+}

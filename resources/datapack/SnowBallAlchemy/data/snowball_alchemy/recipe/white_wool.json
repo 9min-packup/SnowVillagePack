@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:string",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:white_wool",
+        "count": 1
+    }
+}
