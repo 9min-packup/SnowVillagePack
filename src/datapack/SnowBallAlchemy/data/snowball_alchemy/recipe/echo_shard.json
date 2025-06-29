@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["oXo", "XYX", "oXo"],
+    "key": {
+        "X": "minecraft:amethyst_shard",
+        "Y": "minecraft:sculk_catalyst",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:echo_shard",
+        "count": 4
+    }
+}

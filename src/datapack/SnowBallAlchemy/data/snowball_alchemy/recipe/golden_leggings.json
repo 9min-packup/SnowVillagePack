@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:iron_leggings",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:golden_leggings"
+    }
+}

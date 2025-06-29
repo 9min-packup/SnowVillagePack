@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [" X ", "oYo", "YYY"],
+    "key": {
+        "X": "minecraft:book",
+        "Y": "minecraft:obsidian",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:enchanting_table",
+        "count": 1
+    }
+}

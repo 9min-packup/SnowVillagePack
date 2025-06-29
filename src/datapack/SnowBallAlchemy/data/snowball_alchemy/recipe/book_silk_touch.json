@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:book",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:enchanted_book",
+        "components": {
+            "minecraft:stored_enchantments": {
+                "minecraft:silk_touch": 1
+            }
+        }
+    }
+}

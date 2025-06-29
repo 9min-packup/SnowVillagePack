@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["oXo", "XYX", "oXo"],
+    "key": {
+        "X": "minecraft:ender_pearl",
+        "Y": "minecraft:sniffer_egg",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:dragon_egg",
+        "count": 1
+    }
+}

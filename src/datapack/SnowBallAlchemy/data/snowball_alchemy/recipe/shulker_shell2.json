@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["oAo", "BXB", "oAo"],
+    "key": {
+        "X": "minecraft:turtle_helmet",
+        "A": "minecraft:wind_charge",
+        "B": "minecraft:dragon_breath",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:shulker_shell",
+        "count": 1
+    }
+}

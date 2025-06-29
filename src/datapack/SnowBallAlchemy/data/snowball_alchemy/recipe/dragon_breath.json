@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["oXo", "XYX", "oXo"],
+    "key": {
+        "X": "minecraft:glass_bottle",
+        "Y": "minecraft:dragon_egg",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:dragon_breath",
+        "count": 4
+    }
+}

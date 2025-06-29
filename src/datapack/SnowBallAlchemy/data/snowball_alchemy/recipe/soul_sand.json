@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:soul_soil",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:soul_sand"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:armadillo_scute",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:turtle_scute"
+    }
+}

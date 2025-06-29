@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:tall_grass",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:short_grass",
+        "count": 2
+    }
+}

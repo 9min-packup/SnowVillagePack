@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["ooo", "oXo", "ooo"],
+    "key": {
+        "X": "minecraft:feather",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:blue_egg",
+        "count": 1
+    }
+}
