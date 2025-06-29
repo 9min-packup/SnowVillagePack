@@ -2,7 +2,7 @@
 
 ## 原石と宝石
 
-![SnowballAlchemy](/docs/images/raw_metal_gem.gif)
+![SnowballAlchemy](./../images/raw_metal_gem.gif)
 
 下記の原石と宝石は、雪玉で鉱石に戻すことができます。（インゴットはできません。）
 
@@ -18,7 +18,7 @@
 
 <br>
 
-![SnowballAlchemy](/docs/images/ore.gif)
+![SnowballAlchemy](./../images/ore.gif)
 
 さらに、それらの鉱石を雪玉で変換することで、通常ドロップするより少し多い数の原石あるいは宝石になります。ただし、幸運 Ⅲ のツルハシで鉱石を破壊するほうがより多く入手できますのでそちらをおすすめします。
 
@@ -34,7 +34,7 @@
 
 ## 糸と羊毛
 
-![SnowballAlchemy](/docs/images/wool_string.gif)
+![SnowballAlchemy](./../images/wool_string.gif)
 
 糸と羊毛を相互変換することで少しずつ増やすことができます。羊がガラスに閉じ込められる心配はもうありませんね。
 
@@ -42,7 +42,7 @@
 
 ## 革
 
-![SnowballAlchemy](/docs/images/leather.gif)
+![SnowballAlchemy](./../images/leather.gif)
 
 革とウサギの皮についても相互変換することで増やすことが可能です。ウサギしかいない雪原でも革をたくさん集められそうです。
 
@@ -50,7 +50,7 @@
 
 ## 卵と羽
 
-![SnowballAlchemy](/docs/images/egg_feather.gif)
+![SnowballAlchemy](./../images/egg_feather.gif)
 
 卵を経由して羽も増やすことができます。羽からは青い卵（雪国のニワトリが産む）のみ作れるようになっています。ニワトリはどこへ消えたのでしょうか。
 
@@ -58,7 +58,7 @@
 
 ## 骨と骨粉
 
-![SnowballAlchemy](/docs/images/bone.png)
+![SnowballAlchemy](./../images/bone.png)
 
 骨粉を骨に復元できます。骨からは 3 つの骨粉が作れます（通常のレシピ）ので、繰り返すことで骨粉を増やすことが可能です。作物を育てるのに役立つでしょう。
 
@@ -66,14 +66,14 @@
 
 ## トウヒの原木
 
-![SnowballAlchemy](/docs/images/spruce_log.gif)
+![SnowballAlchemy](./../images/spruce_log.gif)
 
 棒からトウヒの苗木、トウヒの苗木からトウヒの原木 4 つを作れます。原木から棒が作れます（通常のレシピ）ので、トウヒの原木に限り手軽に増やすことが可能です。木炭を得るのにも役立つでしょう。ただ、骨粉を使ってトウヒの大木を育てたほうが早いかもしれませんね。
 
 <br>
 
 <div align="right">
-→ <a href="/docs/snowball_alchemy/soulfire.md">魂の明かり</a>
+→ <a href="./soulfire.md">魂の明かり</a>
 </div>
 <div>
 
@@ -81,6 +81,6 @@
 
 ---
 
-[SnowballAlchemy](/docs/snowball_alchemy/index.md) <br>
-[BlueNether](/docs/blue_nether/index.md)<br>
-[top](/docs/index.md)
+[SnowballAlchemy](./index.md) <br>
+[BlueNether](./../blue_nether/index.md)<br>
+[top](./../index.md)

@@ -1,6 +1,6 @@
 # コンセプト
 
-![SnowballAlchemy](/docs/images/concept.png)
+![SnowballAlchemy](./../images/concept.png)
 
 SnowballAlchemy には以下のようなコンセプトがあります。
 
@@ -39,13 +39,13 @@ Minecraft はアイテムを収集するのにかなりの時間を必要とし�
 <br>
 
 <div align="right">
-→ <a href="/docs/snowball_alchemy/basic_recipe.md">基本のレシピ</a>
+→ <a href="./basic_recipe.md">基本のレシピ</a>
 </div><br>
 
 <br>
 
 ---
 
-[SnowballAlchemy](/docs/snowball_alchemy/index.md) <br>
-[BlueNether](/docs/blue_nether/index.md)<br>
-[top](/docs/index.md)
+[SnowballAlchemy](./index.md) <br>
+[BlueNether](./../blue_nether/index.md)<br>
+[top](./../index.md)

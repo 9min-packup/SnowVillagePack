@@ -2,7 +2,7 @@
 
 ## エンチャントテーブル
 
-![SnowballAlchemy](/docs/images/enchant_table.png)
+![SnowballAlchemy](./../images/enchant_table.png)
 
 エンチャントテーブルを作る際に、ダイヤモンドの代わりに雪玉を使用できます。
 
@@ -10,15 +10,15 @@
 
 ## 本とシルクタッチ
 
-![SnowballAlchemy](/docs/images/book.png)
-![SnowballAlchemy](/docs/images/silk_touch.png)
+![SnowballAlchemy](./../images/book.png)
+![SnowballAlchemy](./../images/silk_touch.png)
 
 紙を本に、本をシルクタッチのエンチャント本に変換できます。雪や氷を回収するのに役立ちそうですね。エンダーチェストを持ち歩くのにも使えます。
 
 <br>
 
 <div align="right">
-→ <a href="/docs/snowball_alchemy/redstone.md">レッドストーン関連</a>
+→ <a href="./redstone.md">レッドストーン関連</a>
 </div>
 <div>
 
@@ -26,6 +26,6 @@
 
 ---
 
-[SnowballAlchemy](/docs/snowball_alchemy/index.md) <br>
-[BlueNether](/docs/blue_nether/index.md)<br>
-[top](/docs/index.md)
+[SnowballAlchemy](./index.md) <br>
+[BlueNether](./../blue_nether/index.md)<br>
+[top](./../index.md)

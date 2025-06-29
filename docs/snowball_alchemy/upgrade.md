@@ -1,6 +1,6 @@
 # 装備のアップグレード
 
-![SnowballAlchemy](/docs/images/upgrade.gif)
+![SnowballAlchemy](./../images/upgrade.gif)
 
 剣やツルハシなどのツールは
 
@@ -24,14 +24,14 @@
 
 <br>
 
-![SnowballAlchemy](/docs/images/ender_chest.png)
+![SnowballAlchemy](./../images/ender_chest.png)
 
-チェストをエンダーチェストにアップグレードでき、シルクタッチのツルハシ（[エンチャント関連](/docs/snowball_alchemy/enchant.md) で説明）があれば序盤からエンダーチェストを持ち歩くことができます。間違って別のツルハシで壊してしまったときも安心ですね。（これで黒曜石を増やすことができるのは内緒です。）
+チェストをエンダーチェストにアップグレードでき、シルクタッチのツルハシ（[エンチャント関連](./enchant.md) で説明）があれば序盤からエンダーチェストを持ち歩くことができます。間違って別のツルハシで壊してしまったときも安心ですね。（これで黒曜石を増やすことができるのは内緒です。）
 
 <br>
 
 <div align="right">
-→ <a href="/docs/snowball_alchemy/food.md">食べ物を得る</a>
+→ <a href="./food.md">食べ物を得る</a>
 </div>
 <div>
 
@@ -39,6 +39,6 @@
 
 ---
 
-[SnowballAlchemy](/docs/snowball_alchemy/index.md) <br>
-[BlueNether](/docs/blue_nether/index.md)<br>
-[top](/docs/index.md)
+[SnowballAlchemy](./index.md) <br>
+[BlueNether](./../blue_nether/index.md)<br>
+[top](./../index.md)

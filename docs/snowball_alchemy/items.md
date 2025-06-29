@@ -2,19 +2,19 @@
 
 ## カメのウロコとプリズマリン（シーランタン）
 
-![SnowballAlchemy](/docs/images/turtle_scute.png)
+![SnowballAlchemy](./../images/turtle_scute.png)
 
 アルマジロのウロコをカメのウロコに変換できます。
 
 <br>
 
-![SnowballAlchemy](/docs/images/prismarine_shard.png)
+![SnowballAlchemy](./../images/prismarine_shard.png)
 
 カメのウロコをプリズマリンの欠片に変換できます。
 
 <br>
 
-![SnowballAlchemy](/docs/images/prismarine_crystals.png)
+![SnowballAlchemy](./../images/prismarine_crystals.png)
 
 また、プリズマリンの欠片をプリズマリンクリスタルに変換できます。
 
@@ -24,7 +24,7 @@
 
 ## 3 色のフロッグライト
 
-![SnowballAlchemy](/docs/images/froglight.gif)
+![SnowballAlchemy](./../images/froglight.gif)
 
 シーランタンにマグマクリームを組み合わせることで新緑色のフロッグライトになります。そこにマグマクリームをさらに組み合わせることで黄土色のフロッグライトに、さらにマグマクリームを組み合わせることで最終的に真珠色のフロッグライトになります。マグマクリームを足すことで温度を上げていくようなイメージです。
 
@@ -32,7 +32,7 @@
 
 ## 残響の欠片（リカバリーコンパス）
 
-![SnowballAlchemy](/docs/images/echo_shard.png)
+![SnowballAlchemy](./../images/echo_shard.png)
 
 スカルクカタリストにアメジストの欠片を組み合わせることで残響の欠片になります。通常は古代都市でしか入手できないレアアイテムで、リカバリーコンパスの材料になります。
 
@@ -42,13 +42,13 @@
 
 ## エンドストーンとコーラスフラワー
 
-![SnowballAlchemy](/docs/images/end_stone.png)
+![SnowballAlchemy](./../images/end_stone.png)
 
 石とエンダーパールを組み合わせることでエンドストーンができます。
 
 <br>
 
-![SnowballAlchemy](/docs/images/chorus_flower.gif)
+![SnowballAlchemy](./../images/chorus_flower.gif)
 
 ツツジの花、または桜の花とエンダーパールを組み合わせることでコーラスフラワーができます。
 
@@ -58,13 +58,13 @@
 
 ## ドラゴンの卵とドラゴンブレス
 
-![SnowballAlchemy](/docs/images/dragon_egg.png)
+![SnowballAlchemy](./../images/dragon_egg.png)
 
 スニッファーの卵とエンダーパールを組み合わせることでドラゴンの卵ができます。スニッファーの卵は海底遺跡の怪しい砂から入手できます。
 
 <br>
 
-![SnowballAlchemy](/docs/images/dragon_breath.png)
+![SnowballAlchemy](./../images/dragon_breath.png)
 
 さらに、ドラゴンの卵と瓶を組み合わせることでドラゴンブレスができます。
 
@@ -74,7 +74,7 @@
 
 ## シュルカーの殻（シュルカーボックス）
 
-![SnowballAlchemy](/docs/images/shulker_shell.gif)
+![SnowballAlchemy](./../images/shulker_shell.gif)
 
 カメの甲羅、ドラゴンブレス、ウィンドチャージを組み合わせることでシュルカーの殻になります。（ウィンドチャージは試練の間で入手できます。）シュルカーの殻はシュルカーボックスの材料になります。
 
@@ -83,7 +83,7 @@
 <br>
 
 <div align="right">
-<a href="/docs/snowball_alchemy/index.md">一覧に戻る</a>
+<a href="./index.md">一覧に戻る</a>
 </div>
 <div>
 
@@ -91,6 +91,6 @@
 
 ---
 
-[SnowballAlchemy](/docs/snowball_alchemy/index.md) <br>
-[BlueNether](/docs/blue_nether/index.md)<br>
-[top](/docs/index.md)
+[SnowballAlchemy](./index.md) <br>
+[BlueNether](./../blue_nether/index.md)<br>
+[top](./../index.md)

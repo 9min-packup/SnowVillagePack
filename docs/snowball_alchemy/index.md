@@ -1,7 +1,7 @@
 # SnowballAlchemy
 
-![SnowballAlchemy](/docs/images/snowballalchemy.png)
-![SnowballAlchemy](/docs/images/upgrade.gif)
+![SnowballAlchemy](./../images/snowballalchemy.png)
+![SnowballAlchemy](./../images/upgrade.gif)
 
 SnowballAlchemy (雪玉錬金) は、雪玉を使用した、冒険を助ける多様なカスタムレシピを追加します。短期間だけ遊ぶワールドでも、雪玉さえあれば資源を充実させることができます。<br>
 
@@ -11,29 +11,29 @@ SnowballAlchemy (雪玉錬金) は、雪玉を使用した、冒険を助ける�
 
 ## 目次
 
-### 1. [コンセプト](/docs/snowball_alchemy/concept.md)
+### 1. [コンセプト](./../snowball_alchemy/concept.md)
 
-### 2. [基本のレシピ](/docs/snowball_alchemy/basic_recipe.md)
+### 2. [基本のレシピ](./../snowball_alchemy/basic_recipe.md)
 
-### 3. [装備のアップグレード](/docs/snowball_alchemy/upgrade.md)
+### 3. [装備のアップグレード](./../snowball_alchemy/upgrade.md)
 
-### 4. [食べ物を得る](/docs/snowball_alchemy/food.md)
+### 4. [食べ物を得る](./../snowball_alchemy/food.md)
 
-### 5. [アイテムを増やす](/docs/snowball_alchemy/increase_item.md)
+### 5. [アイテムを増やす](./../snowball_alchemy/increase_item.md)
 
-### 6. [魂の明かり](/docs/snowball_alchemy/soulfire.md)
+### 6. [魂の明かり](./../snowball_alchemy/soulfire.md)
 
-### 7. [エンチャント関連](/docs/snowball_alchemy/enchant.md)
+### 7. [エンチャント関連](./../snowball_alchemy/enchant.md)
 
-### 8. [レッドストーン関連](/docs/snowball_alchemy/redstone.md)
+### 8. [レッドストーン関連](./../snowball_alchemy/redstone.md)
 
-### 9. [醸造関連](/docs/snowball_alchemy/brewing.md)
+### 9. [醸造関連](./../snowball_alchemy/brewing.md)
 
-### 10. [各種アイテム](/docs/snowball_alchemy/items.md)
+### 10. [各種アイテム](./../snowball_alchemy/items.md)
 
 <br>
 
 ---
 
-[BlueNether](/docs/blue_nether/index.md)<br>
-[top](/docs/index.md)
+[BlueNether](./../blue_nether/index.md)<br>
+[top](./../index.md)
