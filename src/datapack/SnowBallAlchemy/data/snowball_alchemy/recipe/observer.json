@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["XXX", "YYo", "XXX"],
+    "key": {
+        "X": "minecraft:cobblestone",
+        "Y": "minecraft:redstone",
+        "o": "minecraft:snowball"
+    },
+    "result": {
+        "id": "minecraft:observer",
+        "count": 1
+    }
+}

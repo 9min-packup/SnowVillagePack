@@ -6,6 +6,12 @@
 
 レッドストーンコンパレーターを作る際に、ネザークォーツの代わりに雪玉を使用できます。
 
+## オブザーバー
+
+![SnowballAlchemy](./../images/observer.png)
+
+オブザーバーを作る際に、ネザークォーツの代わりに雪玉を使用できます。
+
 ## 日照センサー
 
 ![SnowballAlchemy](./../images/daylight_detector.png)
