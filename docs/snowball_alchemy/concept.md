@@ -39,7 +39,7 @@ Minecraft はアイテムを収集するのにかなりの時間を必要とし�
 <br>
 
 <div align="right">
-→ <a href="./basic_recipe.md">基本のレシピ</a>
+→ <a href="./basic_recipe">基本のレシピ</a>
 </div><br>
 
 <br>

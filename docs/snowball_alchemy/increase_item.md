@@ -73,9 +73,8 @@
 <br>
 
 <div align="right">
-→ <a href="./soulfire.md">魂の明かり</a>
-</div>
-<div>
+→ <a href="./soulfire">魂の明かり</a>
+</div><br>
 
 <br>
 

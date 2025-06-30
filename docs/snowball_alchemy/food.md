@@ -13,9 +13,8 @@
 <br>
 
 <div align="right">
-→ <a href="./increase_item.md">アイテムを増やす</a>
-</div>
-<div>
+→ <a href="./increase_item">アイテムを増やす</a>
+</div><br>
 
 <br>
 

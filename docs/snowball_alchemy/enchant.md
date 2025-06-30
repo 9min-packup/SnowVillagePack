@@ -18,9 +18,8 @@
 <br>
 
 <div align="right">
-→ <a href="./redstone.md">レッドストーン関連</a>
-</div>
-<div>
+→ <a href="./redstone">レッドストーン関連</a>
+</div><br>
 
 <br>
 

@@ -46,9 +46,8 @@
 <br>
 
 <div align="right">
-→ <a href="./brewing.md">醸造関連</a>
-</div>
-<div>
+→ <a href="./brewing">醸造関連</a>
+</div><br>
 
 <br>
 

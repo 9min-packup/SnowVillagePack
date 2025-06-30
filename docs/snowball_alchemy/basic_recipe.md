@@ -35,9 +35,8 @@
 <br>
 
 <div align="right">
-→ <a href="./upgrade.md">装備のアップグレード</a>
-</div>
-<div>
+→ <a href="./upgrade">装備のアップグレード</a>
+</div><br>
 
 <br>
 

@@ -22,9 +22,8 @@
 <br>
 
 <div align="right">
-→ <a href="./enchant.md">エンチャント関連</a>
-</div>
-<div>
+→ <a href="./enchant">エンチャント関連</a>
+</div><br>
 
 <br>
 

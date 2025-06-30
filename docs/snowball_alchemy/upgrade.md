@@ -31,9 +31,8 @@
 <br>
 
 <div align="right">
-→ <a href="./food.md">食べ物を得る</a>
-</div>
-<div>
+→ <a href="./food">食べ物を得る</a>
+</div><br>
 
 <br>
 

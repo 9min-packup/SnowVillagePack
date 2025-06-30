@@ -63,9 +63,8 @@
 <br>
 
 <div align="right">
-→ <a href="./items.md">各種アイテム</a>
-</div>
-<div>
+→ <a href="./items">各種アイテム</a>
+</div><br>
 
 <br>
 

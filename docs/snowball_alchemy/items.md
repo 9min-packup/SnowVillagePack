@@ -83,9 +83,8 @@
 <br>
 
 <div align="right">
-<a href="./index.md">一覧に戻る</a>
-</div>
-<div>
+<a href="./index">一覧に戻る</a>
+</div><br>
 
 <br>
 
